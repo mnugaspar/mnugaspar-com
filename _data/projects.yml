@@ -1,0 +1,63 @@
+- name: yaka.ph
+  role: Founder
+  description_html: "A unified, stigma-free platform for all your sexual and reproductive health needs. Top 3 in Villgro Philippines' 2020 Innovation Challenge."
+  url: https://yaka.ph
+  date: 2020-10-01
+  duration: 2020
+  tags: health tech
+
+- name: RxBox 1000 Telemetry eLearning Course
+  role: Project Associate
+  description_html: A short eLearning Course made for telemetry functions of the RxBox 1000 biomedical device. Funded by the national science and technology agency.
+  url: https://upm.vle.edu.ph
+  date: 2020-06-01
+  duration: 2020-21
+  tags: health edtech
+
+- name: MCCOD eLearning Course
+  role: Project Manager
+  description_html: I manage a small team transforming face-to-face modules into an eLearning course for the government's health agency. We've now reached <a href="https://www.up.edu.ph/medical-elearning-at-the-time-of-covid-19/">more than 1,800 users nationwide</a>.
+  url: https://mccod.upm.edu.ph
+  date: 2019-11-01
+  duration: 2019-21
+  tags: health edtech
+
+- name: AHEAD Telehealth Policy Project
+  role: Research Associate
+  description_html: I'm supporting the development of the strategic telehealth roadmap for the government's health agency, involving remote consultations with diverse groups of stakeholders.
+  url:
+  date: 2019-10-01
+  duration: 2019-20
+  tags: organisational strategy
+
+- name: RxBox 1000 Outcomes Project
+  role: Project Manager
+  description_html: I'm involved in validating the biomedical RxBox device for use at resource-constrained settings. From 2020, it will be used at <a href="https://businessmirror.com.ph/2020/04/05/rxbox-biomedical-devices-delivered-to-u-p-pgh-for-covid-19-monitoring/">health centers and in response to COVID-19</a>.
+  url: https://rxbox.chits.ph
+  date: 2018-01-01
+  duration: 2018
+  tags: health tech
+
+- name: Amnesty International Philippines
+  role: Trustee
+  description_html: I'm a Trustee of Amnesty International Philippines and lead the Youth Core Group.
+  url: https://amnesty.org.ph
+  date: 2019-10-01
+  duration: 2019-21
+  tags: youth rights
+
+- name: Amnesty International
+  role: Global Youth Collective Member
+  description_html: I contributed youth perspectives to our global policy positions and faciliated groups of people across different time zones, generations, and cultures. I was also paired with a member of the International Board as part of a Twinning Programme.
+  url: https://www.amnesty.org/en/latest/campaigns/2019/06/amnesty-international-global-youth-collective/
+  date: 2018-01-01
+  duration: 2018-20
+  tags: youth rights
+
+- name: Amnesty International
+  role: International Youth Strategy Working Group Member
+  description_html: I contributed to the development of the International Youth Strategy 2017-2020 across the consultation cycle and alignment to the movement's Strategic Goals.
+  url: https://amnesty.org.ph
+  date: 2016-01-01
+  duration: 2016-17
+  tags: organisational strategy
